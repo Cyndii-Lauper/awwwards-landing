@@ -32,3 +32,4 @@ export default function index({ children }) {
 
   return React.cloneElement(children, { ref: magnetic });
 }
+
